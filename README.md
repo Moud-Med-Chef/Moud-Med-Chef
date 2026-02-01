@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Khaled 👋
+### Welcome to my GitHub Profile
 
-<!--
-**Moud-Med-Chef/Moud-Med-Chef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Web Developer</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+مرحبًا 👋  
+اسمي **خالد**، مطور ويب أعمل على بناء واجهات وتطبيقات ويب باستخدام تقنيات الويب الأساسية، وأسعى دائمًا لتطوير مهاراتي وبناء مشاريع عملية وقابلة للتوسع.
+
+- 💻 أعمل بتقنيات الويب
+- 🌱 أتعلم حاليًا **قواعد البيانات**
+- 🎯 أركز على الكود النظيف والتصميم العملي
+- 🌍 اللغات: العربية، الإنجليزية
+
+---
+
+## 🛠️ Technical Skills
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Backend**
+- PHP
+
+**Currently Learning**
+- Databases
+- SQL
+- MySQL
+
+---
+
+## 📚 Current Focus
+- فهم قواعد البيانات بشكل أعمق
+- كتابة استعلامات SQL بكفاءة
+- ربط قواعد البيانات مع PHP
+- بناء تطبيقات ويب متكاملة
+
+---
+
+## 🎯 Goals
+- تطوير مهارات Backend
+- تنفيذ مشاريع Web حقيقية
+- تحسين الأداء وجودة الكود
+- الاستعداد للعمل الاحترافي في مجال تطوير الويب
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile ✨
+</p>
+
