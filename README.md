@@ -3,6 +3,10 @@
   Hey! Nice to see you.
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+</p>
+
 <p>
 Welcome to my GitHub profile! <br/>
 I'm <b>Khaled</b>, a <b>Web Developer</b> focused on building clean, practical, and scalable web applications.
@@ -46,4 +50,8 @@ I'm <b>Khaled</b>, a <b>Web Developer</b> focused on building clean, practical, 
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
